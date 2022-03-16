@@ -1,0 +1,18 @@
+.tabela {
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0px 10px;
+    padding: 0px 10px;
+    width: 300px;
+    line-height: 20px;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+.linhas {
+    background-color: #424250;
+}
